@@ -1,4 +1,4 @@
-# Hi, I'm José Luís Haas (Zeco) 👋
+# Hi, I'm José Luís Haas 👋
 
 **Creative developer** building interactive experiences since 2005 — augmented reality, virtual reality, 3D on the web, games and live visuals.
 
