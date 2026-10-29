@@ -5,7 +5,7 @@
 - 🏆 **Winner — Meta XR Hackathon 2021**, best AR filter in Latin America
 - 🥈 **2nd place overall — Meta Storytelling with AR Hackathon 2023**
 - 🕶️ AR filters, WebAR and VR apps for brands like **Netflix, TikTok, Pinterest, Formula E, Walmart, John Deere and Vivo** (via Govak Reality)
-- 🎮 Founder of **[Vangrog](https://vangrog.com)**, my independent game studio
+- 🎮 Founder of **[VanGrog](https://vangrog.com)**, my independent game studio
 - 🎛️ Live visuals and audio-reactive art in **TouchDesigner**
 
 Most of my client work is private or under NDA. Here you'll find my own projects and open source tools.
