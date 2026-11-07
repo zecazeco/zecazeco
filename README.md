@@ -14,6 +14,7 @@ Most of my client work is private or under NDA. Here you'll find my own projects
 
 | Project | What it is | Tech |
 | --- | --- | --- |
+| [Nova Petrópolis Risk Maps](https://zecazeco.github.io/mapas-nova-petropolis/) · [code](https://github.com/zecazeco/mapas-nova-petropolis) | Interactive satellite-based maps of landslide risk, highway hazards, urban growth and forest change for a town hit by the 2024 floods in southern Brazil. Highlighted slopes cover 16% of the area and caught 73% of the 2024 landslides | MapLibre GL, JavaScript, Sentinel-2, Landsat |
 | [Word Fleet](https://vangrog.com/games/word-fleet/) | Web game mixing Wordle and Battleship | Vue |
 | [Guided by Nothing](https://vangrog.com/games/guided-by-nothing/) | Exploration game for PC (in development) | Unity, C# |
 | [Aventura Solo — Jovem Guerreiro](https://github.com/zecazeco/aventura-solo-jovem-guerreiro) | Text adventure I wrote at 14, now a web game with an open source engine | JavaScript, HTML, CSS |
